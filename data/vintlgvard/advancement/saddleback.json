@@ -3,7 +3,7 @@
         "title": "SaddleBack",
         "description": "VintlGvard's SaddleBack",
         "icon": {
-            "item": "minecraft:saddle"
+            "id": "minecraft:saddle"
         },
         "announce_to_chat": false,
         "show_toast": false
